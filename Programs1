@@ -1,0 +1,36 @@
+71. WAC to the given number is divisible by either 3 or 5.
+72. WAC to the given number is not an even number.
+73. WAC to the given number is not a odd number
+74. WAC to the given number is not a divisible by 3
+75. WAC to the given number is not a divisible by 3 and 5
+76. WAC to the given number is not a divisible by 3 or 5
+77. WAC to the given character ascii value is not divisible by 5.
+78. WAC to find out the ascii character in a given number.
+79. WAC to find out the ascii value in a given character.
+80. WAC to the given character is uppercase or not.
+81. WAC to the given character is the alphabet.
+82. WAC to the given character is lowercase.
+83. WAC to the given character is the ascii number.
+84. WAC to the given character is the special character.
+85. WAC to the given character should not be uppercase.
+86. WAC to the given character should not be lowercase.
+87. WAC to the given character should not be the alphabet.
+88. WAC to the given character should not be an ascii number.
+89. WAC to the given character is the special character.
+90. WAC to the given character is a vowel.
+91. WAC to the given character is a consonant.
+92. WAS to convert uppercase to lowercase in a given character.
+93. WAS to convert lowercase to uppercase in a given character.
+94. WAS to extract the previous character in the given character.
+95. WAS to extract the next character in the given character.
+96. WAC to the given number character is a special symbol.
+97. WAC to the given character is converted to ASCII value and the value is even as well
+as the character should be lowercase.
+98. WAC to the given character is converted to ASCII value and the value is odd as well
+as the character should be uppercase.
+99. WAC to which the given number is converted to character is not a special symbol or
+not.
+100. WAC to the given number of the ascii character is a vowel.
+101. WAC to check if the first and second characters are sequence or not in a given string.
+102. WAC to the given character ASCII value should be either greater than 50 or greater
+than 25 or less than 112.
