@@ -1,0 +1,112 @@
+1. WAP to check whether a number is positive. If Positive, print a message Positive.
+2. WAP to display hello world if the number is greater than 1 and lesser than 5
+3. WAP to check whether the given number is divisible by 3 or not if print fizz.
+4. WAP to check whether given input is divisible by 2 and 6. If the condition is
+satisfied, convert the given number into a complex number.
+5. WAP to check whether a given input is divisible by 3 or 5. If the condition is
+satisfied, the number is converted to a list.
+i/p: 30
+o/p:[‘3’,’0’]
+6. Write a program to check whether a given number is multiple of 5 or not
+7. WAP to check whether the given input is 0 or not if 0 prints 0.
+8. WAP to check whether a number is negative. If negative, print a message negative.
+9. WAP to check whether a number is even or not. If even, store the value inside the list.
+10. WAP to check whether a number is odd or not. If odd, store the value inside the
+tuple.
+11. WAP to check if the given number is even or not. if it is yes, to print the power of 4 in
+a given number.
+12. WAP to take the input from the user as a number and check whether it is a number
+or not. if yes. take the number and add some value and print it.
+13. WAP to check whether a given value is divisible by 5 and 7. If the value is
+divisible,to display the square of the values.
+14. WAP to check whether the given value's last digit is greater than 5 or not.if greater,
+to perform the bitwise right shift operator (skipping value is 2)
+15. WAP to check whether a given value is divisible by 3 and less than 30. If the value is
+divisible,to display the square of the values.
+16. WAP to check whether a given value is an even number and divisible by 4. If
+satisfied ,to display the cube of the values.
+17. WAP to check whether a given value is even or not. If the even number stores the
+value inside the list.
+18. WAP to check whether a given value is a negative or even number. If satisfied ,to
+display the last digit of the values.
+19. WAP to check whether a given value is a negative or odd number and divisible by 4.
+If satisfied ,to display the cube of the values.
+20. WAP to check whether a given ascii value is divisible by 4 and even value. If
+satisfied, to display the ascii character.
+21. WAP to check whether a given value is present in between 45 to 125 and the number
+should be divisible by 4 and 5 and even value. If satisfied, to display the ascii
+character.
+22. WAP to check whether a given value is present in between 25 to 100 and the number
+should be divisible by 4 and 5. If satisfied, to display multiplication of given value
+with 5.
+23. WAP to check whether a given number is an integer and odd number. If the
+condition is satisfied, the integer is divisible by 5 and displays the result.
+24. WAP to check whether a given value is an integer or not. If integer, the given value
+is converted to string and displays the result.
+25. WAP to check whether a given value is less than 125 and greater than 60 or not. If
+the condition is satisfied, take the name and extract the middle character and
+display it.
+26. WAP to check whether a given two integers are equal or not. If both are equal, to
+perform addition and display the result.
+27. WAP to check whether two values are equal or not. if equal, to perform
+multiplication of two numbers and that result is division by 3 and display the value.
+28. WAP to check whether a character is in the alphabet or not. If the alphabet, store the
+value inside the dict(key as a character and value as an ascii value).
+29. WAP to check whether a character is in the uppercase or not. If the uppercase, store
+the value inside the dict(key as a character and value as an ascii value).
+30. WAP to check whether a character is in the uppercase or not. If the uppercase,
+convert to lowercase and store the value inside the dict(character as a key and ascii
+value as a value).
+31. WAP to check whether a character is in the lowercase or not. If the lowercase, to
+perform the replication operation on that character.
+32. WAP to check whether a character is in the ascii number or not. If the ascii number,
+to convert into integer.
+33. WAP to check whether a character is in the special symbol or not. If the special
+symbol, to display a symbol with ascii value.
+34. WAP to check whether a character is an even number or not. If the even number, to
+display an even number.
+35. WAP to check whether a Given two integers a and b, if any of the integers is 10 or if
+their sum is 10, to perform the sum of the numbers and to display the square of the
+result.
+36. WAP to check whether a character is in the vowel or not. If the vowel,print the next
+character.
+37. WAP to check whether a character is in the not a vowel. If it's not a vowel,print the
+previous character.
+38. WAP to check whether a given value is a single value data type or not. If single
+value, display the given value as a single value data type.
+39. WAP to check whether a given value is a multi-value data type or not. If multi value,
+store the given value inside the tuple and display it.
+40. WAP to check whether a given value is an immutable data type or not. If an
+immutable data type value, store the given value inside the set and display it.
+41. WAP to check whether the middle element of a given list is odd or not. If it is odd
+then print odd then print the number else directly print the number
+42. WAP Return a new string with "not" prefixed to the front of the original string. Return
+the string unmodified if the string already has the word "not" at the beginning.
+43. WAP to check whether the two variables are pointing to the same memory location
+or not if they are pointing to the same memory location then print the address of
+both the variables.
+44. WAP to check whether the given length of the string is even or not. If the condition is
+satisfied, display the sequence of characters from zero position to length of
+collection -2.
+45. WAP to check whether the two given strings are having the same values or not. If
+both are not the same values then swap the values of one variable to another
+variable after swapping print the two values.
+46. WAP to check whether a given character is a special symbol or not. If satisfied,
+store the symbol as a key and value as a ascii value of the given character inside the
+dictionary.
+47. WAP to check whether a given key is not present in the dictionary or not. If the key is
+not present, ap
+pend the new key inside the dictionary.
+48. WAP whether a given string, and it displays a new string with the first and last
+characters switched.
+49. WAP to check whether the last digit should be 2 in the given number then print the
+last digit.
+50. WAP to check whether a Given two integers a and b, if any of the integers is 10 or if
+their sum is 10, to perform the sum of the numbers and to display the square of the
+result.
+51. WAP to check whether a given string(str) and one integer(n) value, to display a new
+string that is devoid of the character at index n. if you are given a non-empty string
+and an int n. The value of n will be a legitimate character index from the original
+string, therefore it will fall within the range of 0 to len(str)-1, inclusive.
+52. WAP to check whether both string collections are equal or not if it is not equal print
+the both strings along with the length of a string if both are equal ignore it.
