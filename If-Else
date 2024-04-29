@@ -1,0 +1,45 @@
+53. WAP to check whether a number is positive or negative. If Positive print positive
+message or else print Negative Number.
+54. WAP to check whether a number is even or odd. If even, print message an even or
+else print message as odd.
+55. Write a program to check whether a given number is greater than 10 or not. if it is
+greater than 10 print message as greater or else print that number with not a greater
+than.
+56. WAP to check whether a given value is present in between 45 to 125. If value is
+present print the ascii character.
+57. WAP to check whether the given two input numbers are divisible by 3 and 5. If it is
+divisible, print “Good Morning”, if it is not print “Good Evening”.
+58. WAP to accept two integers and check whether they are equal or not.
+If equal, multiply to value or quotation value and display it.
+59. WAP to find the largest of two numbers.
+60. WAP to check whether the input number is greater than 10 or not if it is greater than
+10 print messages as greater with print that number. if that number is not greater
+than 10 print that number.
+61. WAP to the given number integer, if n is greater than 21,print the absolute
+difference between n and 21 otherwise print twice the absolute difference.
+62. WAP to find the smallest of two numbers.
+63. WAP to check whether the given number is even or odd. If it is even then make it as
+an add number, if it is an odd number then make it as even number.
+64. WAP to check whether the given number is divisible by 3 or not if yes,print the
+number or else print the cube of the numbers.
+65. WAP to check whether the given input is divisible by 3 and 5. If yes print the actual
+number or else print string of that number.
+66. WAP to check whether the given number lies between 1 to 19, if it is true square that
+number or else false cube that number and display the number.
+67. WAP to check whether the student has passed or failed. If the student got more than
+40 marks, print ‘PASS’ along with those marks, if it is not printed ‘FAIL’ along with
+those marks.
+68. WAP to check whether a given value is even and in range of 47 to 58 and not in 0 or
+odd. if condition is True, to perform display the ascii character.or else to perform
+floor division with 5 and display it.
+69. WAP to check whether a given value is less than 125 and in between 47 to 125 or not.
+if condition is True, to perform store the given value as key and value as a character
+into the dict.or else to append the value in list and display it.
+70. WAP to check whether a given character is in the alphabet or not. if alphabet,
+display the alphabet with character.or else display the not alphabet with character.
+71. WAP to check whether a given character is uppercase or other character. if
+uppercase, display the uppercase with character.or else display the other character
+with character.
+72. WAP to check whether a given character is lowercase or other character. if
+lowercase, display the lowercase with character.or else display the other character
+with character.
